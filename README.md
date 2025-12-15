@@ -61,6 +61,7 @@ I believe in **learning by building**, and this GitHub profile reflects my journ
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/arshwia](https://github.com/arshwia)
+* Telegram : [@arshilax](https://t.me/arshilax)
 
 ---
 
@@ -127,3 +128,4 @@ I believe in **learning by building**, and this GitHub profile reflects my journ
 ## 📫 راه‌های ارتباطی
 
 * گیت‌هاب: [https://github.com/arshwia](https://github.com/arshwia)
+* تلگرام : [@arshilax](https://t.me/arshilax)
