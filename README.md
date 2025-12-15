@@ -1,41 +1,129 @@
-<!-- Profile Header -->
-<h1 align="center"><span style="color:#007acc">Arshia Heidary</span></h1>
-<h3 align="center">Web backEnd developer --- junior</h3>
+<!-- ================= ENGLISH VERSION ================= -->
+
+<h1 align="center">Hi, I'm Arshia 👋</h1>
+<h3 align="center">Backend Developer | Growing Professional</h3>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-Highly motivated computer intern, actively seeking my first professional internship to enter the tech industry.
-I am currently learning NodeJS and Express. I have made good progress.
+I am a **backend developer** focused on building scalable and well-structured server-side applications.
+Currently, I am sharpening my skills with **Node.js** and **Express**, following real-world backend architectures and best practices.
 
-🧠 I am working on the following:
-
-- ⚙️ **NodeJS and Backend**
-- 🧩 **API Management**
-- 🖼️ **Backend Architecture**
+I believe in **learning by building**, and this GitHub profile reflects my journey toward becoming a professional backend engineer.
 
 ---
 
-### Tech Stack
+## 🛠 Tech Stack
 
-#### Languages & Frameworks
-
-<div>
-<table>
+<table align="center">
   <tr>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="24" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="24" alt="TypeScript"/><br>TypeScript</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="24" alt="Node.js"/><br>Node.js</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="32" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="32" alt="Node.js"/><br>Node.js</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Express.svg" width="32" alt="Express"/><br>Express.js</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="32" alt="MongoDB"/><br>MongoDB</td>
   </tr>
 </table>
-</div>
 
 ---
 
-## Let's Connect
+## ⚙️ Backend Skills
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arshilax-heidary-12161a39a/"><img src="https://img.icons8.com/color/28/linkedin.png"/></a>
-  <a href="https://t.me/arshilax"><img src="https://img.icons8.com/color/28/telegram-app.png"/></a>
-</p>
+* RESTful API Design
+* MVC Architecture
+* CRUD Operations
+* Async / Await & Promises
+* Node.js Event Loop & Non-blocking I/O
+* Middleware Concepts (Express)
+* File-based Data Handling (JSON)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Node.js internals
+* MongoDB & Mongoose
+* Authentication & Authorization (JWT)
+* Security best practices
+* Performance optimization
+
+---
+
+## 🚀 Goals
+
+* Become a strong backend engineer
+* Build production-ready APIs
+* Work with real databases and authentication systems
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/arshwia](https://github.com/arshwia)
+
+---
+
+<!-- ================= PERSIAN VERSION ================= -->
+
+<h1 align="center">سلام، من عرشیا هستم 👋</h1>
+<h3 align="center">بک‌اند دولوپر | در مسیر حرفه‌ای شدن</h3>
+
+---
+
+## 👨‍💻 درباره من
+
+من یک **بک‌اند دولوپر** هستم که تمرکزم روی ساخت اپلیکیشن‌های سمت سرور با ساختار درست و مقیاس‌پذیر است.
+در حال حاضر به‌صورت جدی با **Node.js** و **Express** کار می‌کنم و طبق معماری‌های واقعی بک‌اند جلو می‌روم.
+
+هدف من این است که با **پروژه‌های واقعی** مهارتم را بالا ببرم و به یک بک‌اند دولوپر حرفه‌ای تبدیل شوم.
+
+---
+
+## 🛠 تکنولوژی‌ها
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="32" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="32" alt="Node.js"/><br>Node.js</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Express.svg" width="32" alt="Express"/><br>Express.js</td>
+    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="32" alt="MongoDB"/><br>MongoDB</td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ مهارت‌های بک‌اند
+
+* طراحی REST API
+* معماری MVC
+* عملیات CRUD
+* Async / Await و Promise
+* Event Loop در Node.js
+* Middleware در Express
+* کار با فایل‌های JSON
+
+---
+
+## 📚 در حال یادگیری
+
+* مفاهیم پیشرفته Node.js
+* MongoDB و Mongoose
+* احراز هویت و مجوزدهی (JWT)
+* امنیت در بک‌اند
+* بهینه‌سازی پرفورمنس
+
+---
+
+## 🎯 اهداف
+
+* تبدیل شدن به بک‌اند دولوپر قوی
+* ساخت APIهای واقعی و قابل استفاده
+* کار با دیتابیس و سیستم لاگین واقعی
+* مشارکت در پروژه‌های متن‌باز
+
+---
+
+## 📫 راه‌های ارتباطی
+
+* گیت‌هاب: [https://github.com/arshwia](https://github.com/arshwia)
